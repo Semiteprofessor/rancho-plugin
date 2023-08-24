@@ -1,0 +1,13 @@
+{
+    "name": "topship/woocommerce-shipping-plugin",
+    "description": "A WordPress plugin to interface with the Topship.Africa API and create a shipping method for your store",
+    "type": "composer-plugin",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Topship Africa"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
